@@ -36,7 +36,7 @@ button {
   padding: 8px 16px;
 }
 
-.content {
+.content{
   flex: 1;
   display: flex;
   align-items: center;
@@ -44,6 +44,7 @@ button {
   flex-direction: column;
   gap: 16px;
 }
+
 
 a {
   color: #666;
